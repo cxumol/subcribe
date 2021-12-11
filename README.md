@@ -5,5 +5,5 @@ customized source to my subscription
 
 TODO:  
 
-- [] 通过 github actions 检测网站存活情况
+- [ ] 通过 github actions 检测网站存活情况
 
